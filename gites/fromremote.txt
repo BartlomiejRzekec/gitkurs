@@ -5,3 +5,4 @@ jambo
 jajaje
 papa
 pepe
+noconflict
